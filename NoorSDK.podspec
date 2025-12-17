@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   # Metadata
   spec.name         = "NoorSDK"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "An Islamic SDK for MyRobi iOS app"
   spec.description  = <<-DESC
     DeenIslamSDK provides Islamic content and features for the MyGP iOS app, including prayer times, 

@@ -702,7 +702,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		OKaCJyFMmuk78uynQFwWdLu0llE=
+		Ws+XSvt60XfmAm4SJOzen8f08WY=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -718,7 +718,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		E+bWaD8uE5YAt7PwS5DnFi1vFQs=
+		3HKYUKAvkTLztn1zWoCGCsjNxQ0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -822,7 +822,7 @@
 		</data>
 		<key>OnudanCell.nib</key>
 		<data>
-		+MAx9oKT8EbeYbipAVBx/+qRiww=
+		qwJZYpGHS15Ps3o7OK7jNOM+A24=
 		</data>
 		<key>PackageCell.nib</key>
 		<data>
@@ -1246,7 +1246,7 @@
 		</data>
 		<key>ZakatCalculationLiabilitiesCell.nib</key>
 		<data>
-		jdvJGBtGvqfvTFMHEU53+M4IrNc=
+		C1LwQ1nlzvIHJlJudvtymTG6XHg=
 		</data>
 		<key>ZakatCalculationPropertyHeaderCell.nib</key>
 		<data>
@@ -1262,11 +1262,11 @@
 		</data>
 		<key>ZakatCalculatorLiabilities.nib</key>
 		<data>
-		zHBX22wkGc/Q+srRc1qvMzoW46E=
+		dDB2iO3JIVVJuAFbekHj+Qi1Q9U=
 		</data>
 		<key>ZakatCalculatorSummary.nib</key>
 		<data>
-		a+MMJQcDVVVjCXj73Z23h5LOlRA=
+		BIO7gSvMc5fteJfVY7d3bYkn65g=
 		</data>
 		<key>ZakatDetailsVC.nib</key>
 		<data>
@@ -1274,7 +1274,7 @@
 		</data>
 		<key>ZakatLiabilitiesCalculator.nib</key>
 		<data>
-		dYtyh/Z2isuAWITFlDjshWC//mI=
+		OJOOgb9e/kUFcEf7DlLYlPI6jW4=
 		</data>
 		<key>ZakatMenu.nib</key>
 		<data>
@@ -1286,7 +1286,7 @@
 		</data>
 		<key>ZakatNisabCalculationStepTvCell.nib</key>
 		<data>
-		mDAspUFFsA3tb1LEgcwpqPZFWL4=
+		2YhlZkPc7is5Gb/B9RJfQ2/LzOk=
 		</data>
 		<key>ZakatNisabDropDownTvCell.nib</key>
 		<data>
@@ -1294,7 +1294,7 @@
 		</data>
 		<key>ZakatNisabStepsHeaderViewCell.nib</key>
 		<data>
-		ZElR/yloaM7V8Zh5E69e6S392e4=
+		nxZeo998AhtTfw08nB9qZQG+GyM=
 		</data>
 		<key>ZakatPropertyCalculationInfo.nib</key>
 		<data>
@@ -2576,7 +2576,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5dZZ4Ky9Ld6JDzDZXjuT5BYzuwjvxtL7g5eRK9FAu/Y=
+			Td8DHRAvS4I41z2We89kzdPmLRyXUG5OyqHXQ8AigKo=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -2604,7 +2604,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p6cFz3cb1N0neWbcqxNtPuEEMdK/MwKHPlrNgJUUwsE=
+			D9PJLm/zqe3QokjAtjxTI5IPqfhdsC2rymsR5kaXMR0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2786,7 +2786,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AdQFwb5DtULeNcLw9u8FPG2YqT7m+rULIgk8xC5ao7Y=
+			x507P6KBWOACAPyqDkGqhYCbrOR1X6lp8Edbedezsbc=
 			</data>
 		</dict>
 		<key>PackageCell.nib</key>
@@ -3528,7 +3528,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IP2uWOPFRw9Wgv6DpM1ntp0qDSiwKgwavw2cmtNNgJs=
+			9BIL/+GggSlw9ii5ROiyNP5pkyAVG8SxuchosYyy7Kg=
 			</data>
 		</dict>
 		<key>ZakatCalculationPropertyHeaderCell.nib</key>
@@ -3556,14 +3556,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oea9FNAt9fXlhM7trzf1AJD1vxl/7Zou86pIYqLTR+c=
+			/ZqfjajQpq6pZINL5LDxfUIs/0I9PXdNIXl2vvqasJY=
 			</data>
 		</dict>
 		<key>ZakatCalculatorSummary.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SkUotNpC5cM2o7u/Cvm6IfLPxluMdovB8wrnrGm5zY0=
+			SlpMDRXUXE2UWfNu9kEDUfPS6ubwrxFI5qx6ZjJpKx0=
 			</data>
 		</dict>
 		<key>ZakatDetailsVC.nib</key>
@@ -3577,7 +3577,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QV1orqBvguQoJGYAAg/6bXQjm9zSvqxRsQqZnCbQTWQ=
+			ll8v3Vw2NIc6C44tUdwNtakDRV5IR2XlXRverjfRCsE=
 			</data>
 		</dict>
 		<key>ZakatMenu.nib</key>
@@ -3598,7 +3598,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ueyqk90gRJNU+USR5TFE5KXEwLIQ88P2Wg3LEhOgnkw=
+			61+SJsi3Rou2ZYfd9i8rdqCp4WrLZygqqY7Y7m/hmT8=
 			</data>
 		</dict>
 		<key>ZakatNisabDropDownTvCell.nib</key>
@@ -3612,7 +3612,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tfupo+yMdtc8OFM1qLVmnVtk1FpSFEXMuEBmLhEQUmo=
+			T1oWHpxOnQrUr8tLB/EEQnlh159EA2iG5kZb+DKnySc=
 			</data>
 		</dict>
 		<key>ZakatPropertyCalculationInfo.nib</key>

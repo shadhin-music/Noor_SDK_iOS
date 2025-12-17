@@ -70035,13 +70035,13 @@
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Robi_Noor_SDK\/Robi_Noor_SDK_Main\/DeenIslamSDK\/Library \/YouTubePlayer\/YouTubePlayer.swift",
       "kind": "StringLiteral",
       "offset": 2722,
-      "length": 13,
-      "value": "\"about:blank\""
+      "length": 25,
+      "value": "\"https:\/\/deenislamic.com\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Robi_Noor_SDK\/Robi_Noor_SDK_Main\/DeenIslamSDK\/Library \/YouTubePlayer\/YouTubePlayer.swift",
       "kind": "BooleanLiteral",
-      "offset": 2855,
+      "offset": 2867,
       "length": 5,
       "value": "false"
     },

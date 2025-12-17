@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		rjMFdUwWeanqUIjV0GSZjwln8+c=
+		EIxUc6Pu1xlf5+iI6TTARF1RTI0=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -702,7 +702,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		kbrqDVZyfKI0aSn9mRlVlLsVsDQ=
+		hBOgVP/cH/UuMuJ6q6bnw4AayeI=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -718,11 +718,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wR4TmTDF8xFE8ZPDBOwUaq6n5SE=
+		MEtkWEc1rZK+yztfSMIiKfehxdQ=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kbrqDVZyfKI0aSn9mRlVlLsVsDQ=
+		hBOgVP/cH/UuMuJ6q6bnw4AayeI=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -738,7 +738,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7F075U+zAnR52/ieialIBuIW45I=
+		oe5ELl+JXGtjExn1Dvh1RO5MH00=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -842,7 +842,7 @@
 		</data>
 		<key>OnudanCell.nib</key>
 		<data>
-		+MAx9oKT8EbeYbipAVBx/+qRiww=
+		qwJZYpGHS15Ps3o7OK7jNOM+A24=
 		</data>
 		<key>PackageCell.nib</key>
 		<data>
@@ -1266,7 +1266,7 @@
 		</data>
 		<key>ZakatCalculationLiabilitiesCell.nib</key>
 		<data>
-		jdvJGBtGvqfvTFMHEU53+M4IrNc=
+		C1LwQ1nlzvIHJlJudvtymTG6XHg=
 		</data>
 		<key>ZakatCalculationPropertyHeaderCell.nib</key>
 		<data>
@@ -1282,11 +1282,11 @@
 		</data>
 		<key>ZakatCalculatorLiabilities.nib</key>
 		<data>
-		zHBX22wkGc/Q+srRc1qvMzoW46E=
+		dDB2iO3JIVVJuAFbekHj+Qi1Q9U=
 		</data>
 		<key>ZakatCalculatorSummary.nib</key>
 		<data>
-		a+MMJQcDVVVjCXj73Z23h5LOlRA=
+		BIO7gSvMc5fteJfVY7d3bYkn65g=
 		</data>
 		<key>ZakatDetailsVC.nib</key>
 		<data>
@@ -1294,7 +1294,7 @@
 		</data>
 		<key>ZakatLiabilitiesCalculator.nib</key>
 		<data>
-		dYtyh/Z2isuAWITFlDjshWC//mI=
+		OJOOgb9e/kUFcEf7DlLYlPI6jW4=
 		</data>
 		<key>ZakatMenu.nib</key>
 		<data>
@@ -1306,7 +1306,7 @@
 		</data>
 		<key>ZakatNisabCalculationStepTvCell.nib</key>
 		<data>
-		mDAspUFFsA3tb1LEgcwpqPZFWL4=
+		2YhlZkPc7is5Gb/B9RJfQ2/LzOk=
 		</data>
 		<key>ZakatNisabDropDownTvCell.nib</key>
 		<data>
@@ -1314,7 +1314,7 @@
 		</data>
 		<key>ZakatNisabStepsHeaderViewCell.nib</key>
 		<data>
-		ZElR/yloaM7V8Zh5E69e6S392e4=
+		nxZeo998AhtTfw08nB9qZQG+GyM=
 		</data>
 		<key>ZakatPropertyCalculationInfo.nib</key>
 		<data>
@@ -1413,7 +1413,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GFt2VfvbjYLsakzmy6G6xrQoXX5R/GyypCdfz2MlXDk=
+			4LRm6qfFjpX6og3QCnuIqBSG3P6uJXrPFpGSlYcmFUg=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -2596,7 +2596,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yKI2A5AEdifRqtTwW3/ig7uvNzS6PjT2bk1yeZE/7aQ=
+			H+qC++AINSeV8sy16IxNeugqGVA9t7TXXGEQRWrbQsY=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -2624,14 +2624,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yUT6rRgtEOo3T/mSkZFEneYQq4ZbPhz5OExVeb1Qhcs=
+			A2KzsPBsJTyE3TnkbpBrejIeraDvXGzAR40HWN9PKbI=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yKI2A5AEdifRqtTwW3/ig7uvNzS6PjT2bk1yeZE/7aQ=
+			H+qC++AINSeV8sy16IxNeugqGVA9t7TXXGEQRWrbQsY=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -2659,7 +2659,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+B3E7hH5DUGm0zD9pUb0F4VxNN3F9v1f4lS1XA/zXBo=
+			t8B+Er+5CImd4ykKvahLQOw+Dgr5wENk62QJfRRKYuw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2841,7 +2841,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AdQFwb5DtULeNcLw9u8FPG2YqT7m+rULIgk8xC5ao7Y=
+			x507P6KBWOACAPyqDkGqhYCbrOR1X6lp8Edbedezsbc=
 			</data>
 		</dict>
 		<key>PackageCell.nib</key>
@@ -3583,7 +3583,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IP2uWOPFRw9Wgv6DpM1ntp0qDSiwKgwavw2cmtNNgJs=
+			9BIL/+GggSlw9ii5ROiyNP5pkyAVG8SxuchosYyy7Kg=
 			</data>
 		</dict>
 		<key>ZakatCalculationPropertyHeaderCell.nib</key>
@@ -3611,14 +3611,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oea9FNAt9fXlhM7trzf1AJD1vxl/7Zou86pIYqLTR+c=
+			/ZqfjajQpq6pZINL5LDxfUIs/0I9PXdNIXl2vvqasJY=
 			</data>
 		</dict>
 		<key>ZakatCalculatorSummary.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SkUotNpC5cM2o7u/Cvm6IfLPxluMdovB8wrnrGm5zY0=
+			SlpMDRXUXE2UWfNu9kEDUfPS6ubwrxFI5qx6ZjJpKx0=
 			</data>
 		</dict>
 		<key>ZakatDetailsVC.nib</key>
@@ -3632,7 +3632,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QV1orqBvguQoJGYAAg/6bXQjm9zSvqxRsQqZnCbQTWQ=
+			ll8v3Vw2NIc6C44tUdwNtakDRV5IR2XlXRverjfRCsE=
 			</data>
 		</dict>
 		<key>ZakatMenu.nib</key>
@@ -3653,7 +3653,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ueyqk90gRJNU+USR5TFE5KXEwLIQ88P2Wg3LEhOgnkw=
+			61+SJsi3Rou2ZYfd9i8rdqCp4WrLZygqqY7Y7m/hmT8=
 			</data>
 		</dict>
 		<key>ZakatNisabDropDownTvCell.nib</key>
@@ -3667,7 +3667,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tfupo+yMdtc8OFM1qLVmnVtk1FpSFEXMuEBmLhEQUmo=
+			T1oWHpxOnQrUr8tLB/EEQnlh159EA2iG5kZb+DKnySc=
 			</data>
 		</dict>
 		<key>ZakatPropertyCalculationInfo.nib</key>
