@@ -2,26 +2,25 @@ Pod::Spec.new do |spec|
 
   # Metadata
   spec.name         = "NoorSDK"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "An Islamic SDK for MyRobi iOS app"
   spec.description  = <<-DESC
-    DeenIslamSDK provides Islamic content and features for the MyGP iOS app, including prayer times, 
-    Quran recitations, and other Islamic functionalities.
+NoorSDK provides Islamic content and features for the MyRobi iOS app, including prayer times,
+Quran recitations, and other Islamic functionalities.
   DESC
 
-  spec.homepage     = "https://github.com/shadhin-music/Noor_SDK_iOS.git"
+  spec.homepage     = "https://github.com/shadhin-music/Noor_SDK_iOS"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "Talut Mahamud Deep" => "gakkdeep@gmail.com" }
 
   # Platform
-  spec.platform     = :ios
-  spec.ios.deployment_target = "13.0"
+  spec.platform     = :ios, "13.0"
   spec.swift_version = "5.7"
 
   # Source location
-  spec.source       = { 
-    :git => "https://github.com/shadhin-music/DeenGPSDK-iOS.git", 
-    :tag => spec.version.to_s 
+  spec.source       = {
+    :git => "https://github.com/shadhin-music/Noor_SDK_iOS.git",
+    :tag => spec.version.to_s
   }
 
   # XCFramework
@@ -29,19 +28,19 @@ Pod::Spec.new do |spec|
 
   # Build settings
   spec.pod_target_xcconfig = {
-    'SKIP_INSTALL' => 'NO',
-    'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
-    'ENABLE_BITCODE' => 'NO',
-    'OTHER_LDFLAGS' => '$(inherited) -ObjC'
+    "SKIP_INSTALL" => "NO",
+    "BUILD_LIBRARY_FOR_DISTRIBUTION" => "YES",
+    "ENABLE_BITCODE" => "NO",
+    "OTHER_LDFLAGS" => "$(inherited) -ObjC"
   }
 
   spec.user_target_xcconfig = {
-    'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
-    'ENABLE_BITCODE' => 'NO'
+    "BUILD_LIBRARY_FOR_DISTRIBUTION" => "YES",
+    "ENABLE_BITCODE" => "NO"
   }
 
   spec.requires_arc = true
   spec.static_framework = true
-  spec.frameworks = 'UIKit', 'WebKit', 'EventKit', 'CoreLocation'
+  spec.frameworks = ["UIKit", "WebKit", "EventKit", "CoreLocation"]
 
 end
