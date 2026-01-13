@@ -2,14 +2,14 @@ Pod::Spec.new do |spec|
 
   # Metadata
   spec.name         = "NoorSDK"
-  spec.version      = "1.0.3"
+  spec.version      = "1.0.4"
   spec.summary      = "An Islamic SDK for MyRobi iOS app"
   spec.description  = <<-DESC
 NoorSDK provides Islamic content and features for the MyRobi iOS app, including prayer times,
 Quran recitations, and other Islamic functionalities.
   DESC
 
-  spec.homepage     = "https://github.com/shadhin-music/Noor_SDK_iOS"
+  spec.homepage     = "https://github.com/shadhin-music/Noor_SDK_iOS.git"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "Talut Mahamud Deep" => "gakkdeep@gmail.com" }
 
