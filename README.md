@@ -1,4 +1,4 @@
-# MyGPDeeniOS
+# NooriOSSDK
 
 
 sdk is published
